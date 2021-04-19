@@ -34,5 +34,5 @@ class Solution:
 
 if __name__ == '__main__':
     r = "fd"
-    m = " "
+    m = ""
     print(Solution.canConstruct(0, r, m))
